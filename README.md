@@ -28,14 +28,14 @@ _Conflicts of Interest_: The authors declare that they have no actual or potenti
 
 _Source of funding_: The authors declare that they have no source of funding.
 
-### Appendices ###
-#### Appendix A: Declaration of generative artificial intelligence (AI) and AI-assisted technologies in the final report preparation process ####
+## Appendices ##
+### Appendix A: Declaration of generative artificial intelligence (AI) and AI-assisted technologies in the final report preparation process ###
 The authors declare that no generative AI nor AI-assisted technologies have been used in the preparation of this manuscript, including writing the R code needed to analyze the data. However, we may have used Google Docs’s built-in Smart Compose to prepare the manuscript; whether or not this is classified as generative AI, an AI-assisted technology, or machine learning is up to interpretation, but for this manuscript, we assume it is an generative AI.
-#### Appendix B: Significant Changes Made to Protocol  ####
+### Appendix B: Significant Changes Made to Protocol  ###
 Unfortunately, we have made significant changes to the protocol since we turned in the protocol. This was due to a lack of availability of a fair coin. Instead, we acted as a random number generator, giving subjects treatments in a sequence we conjecture to be as random as a fair coin. We did not stick to an explore-then-commit (ETC) or the upper confidence bound (UCB) paradigm when assigning treatments to units. Despite having suboptimal statistical power due to the possibly unbalanced crossover design, we conclude that the conclusions we make from this study might remain applicable.
 Other than the significant modifications done during treatment assignment, we have made no significant alterations to the rest of the protocol.
-#### Appendix C: Laboratory Notes  ####
-#### Appendix D: Data Availability Statement (R Code) ####
+### Appendix C: Laboratory Notes  ###
+### Appendix D: Data Availability Statement (R Code) ###
 The data and the analysis R code that support the findings of this experiment, are described within this final report, and necessary to reproduce our results are publicly available at:
 https://github.com/chikorita-commits/turbo-octo-memory-chikorita (for EDA, paired t-test based on the words per minute, and ANOVA test based on the words per minute)
 
