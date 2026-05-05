@@ -20,9 +20,9 @@ Lastly, a Fisher randomization test was conducted using 1000 simulations to test
 Overall, all methods show that, while Comic Sans was consistently slightly faster on average, the effect was so small that it was not statistically significant, and we failed to reject the null hypothesis. There was no strong evidence in any test that font choice has a meaningful impact on reading speed.
 ## Conclusion ##
 
-_Acknowledgements_: We sincerely thank Andrew Bray and Abhroneel Ghosh for their feedback and constructive criticism for every phase of the project. Without their incredible feedback and incredibly constructive criticism, proceeding with this experiment would not have been possible.
+_Acknowledgements_: We sincerely thank people for their feedback and constructive criticism for every phase of the project. Without their incredible feedback and incredibly constructive criticism, proceeding with this experiment would not have been possible.
 
-_Ethics Approval_: The experimental protocol has been approved by Abhroneel Ghosh and Andrew Bray.
+_Ethics Approval_: The experimental protocol has been approved by people.
 
 _Conflicts of Interest_: The authors declare that they have no actual or potential conflicts of interest.
 
@@ -35,10 +35,7 @@ The authors declare that no generative AI nor AI-assisted technologies have been
 Unfortunately, we have made significant changes to the protocol since we turned in the protocol. This was due to a lack of availability of a fair coin. Instead, we acted as a random number generator, giving subjects treatments in a sequence we conjecture to be as random as a fair coin. We did not stick to an explore-then-commit (ETC) or the upper confidence bound (UCB) paradigm when assigning treatments to units. Despite having suboptimal statistical power due to the possibly unbalanced crossover design, we conclude that the conclusions we make from this study might remain applicable.
 Other than the significant modifications done during treatment assignment, we have made no significant alterations to the rest of the protocol.
 ### Appendix C: Laboratory Notes  ###
+The laboratory notes taken when we recorded the data are publicly available on this GitHub repository: https://github.com/chikorita-commits/turbo-octo-memory-chikorita (download the xlsx file)
 ### Appendix D: Data Availability Statement (R Code) ###
 The data and the analysis R code that support the findings of this experiment, are described within this final report, and necessary to reproduce our results are publicly available at:
-https://github.com/chikorita-commits/turbo-octo-memory-chikorita (for EDA, paired t-test based on the words per minute, and ANOVA test based on the words per minute)
-
-
-
-
+https://github.com/chikorita-commits/turbo-octo-memory-chikorita (for EDA, paired t-test based on the words per minute, and ANOVA test based on the words per minute, download the R file; for paired t-test based on the time, regression analysis based on the time, and Fisher randomization test based on the words per minute, download the pdf file)
