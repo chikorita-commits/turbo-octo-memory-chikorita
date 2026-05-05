@@ -19,11 +19,15 @@ Lastly, a Fisher randomization test was conducted using 1000 simulations to test
 ### Discussion ###
 Overall, all methods show that, while Comic Sans was consistently slightly faster on average, the effect was so small that it was not statistically significant, and we failed to reject the null hypothesis. There was no strong evidence in any test that font choice has a meaningful impact on reading speed.
 ### Conclusion ###
-We conclude that
+
 _Acknowledgements_: We sincerely thank Andrew Bray and Abhroneel Ghosh for their feedback and constructive criticism for every phase of the project. Without their incredible feedback and incredibly constructive criticism, proceeding with this experiment would not have been possible.
+
 _Ethics Approval_: The experimental protocol has been approved by Abhroneel Ghosh and Andrew Bray.
+
 _Conflicts of Interest_: The authors declare that they have no actual or potential conflicts of interest.
+
 _Source of funding_: The authors declare that they have no source of funding.
+
 ### Appendices ###
 #### Appendix A: Declaration of generative artificial intelligence (AI) and AI-assisted technologies in the final report preparation process ####
 The authors declare that no generative AI nor AI-assisted technologies have been used in the preparation of this manuscript, including writing the R code needed to analyze the data. However, we may have used Google Docs’s built-in Smart Compose to prepare the manuscript; whether or not this is classified as generative AI, an AI-assisted technology, or machine learning is up to interpretation, but for this manuscript, we assume it is an generative AI.
