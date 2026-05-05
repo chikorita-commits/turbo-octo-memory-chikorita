@@ -16,9 +16,9 @@ A regression of the difference in reading time on treatment was also conducted. 
 An ANOVA test was performed on the differences in reading speed on treatment, with 1 numerator degree of freedom and 50 denominator degrees of freedom. The resulting F-value was approximately 0.164, and the p-value was approximately 0.687. Since the critical F-value (4.03431)  is more than 0.164, we fail to reject the null hypothesis that there is an insignificant difference between the two reading speeds.
 ### Fisher Randomization Test Based on the Words Per Minute ###
 Lastly, a Fisher randomization test was conducted using 1000 simulations to test the Fisher sharp null hypothesis. The p-value generated was 0.412, which is consistent with our earlier t-test results. The observed ATE also fell near the center of the simulated data, which further concludes that the observed difference in reading time and thus the observed difference in words per minute of reading speed was simply margin of error.
-### Discussion ###
+## Discussion ##
 Overall, all methods show that, while Comic Sans was consistently slightly faster on average, the effect was so small that it was not statistically significant, and we failed to reject the null hypothesis. There was no strong evidence in any test that font choice has a meaningful impact on reading speed.
-### Conclusion ###
+## Conclusion ##
 
 _Acknowledgements_: We sincerely thank Andrew Bray and Abhroneel Ghosh for their feedback and constructive criticism for every phase of the project. Without their incredible feedback and incredibly constructive criticism, proceeding with this experiment would not have been possible.
 
